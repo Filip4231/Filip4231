@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Filip4231
 - 👀 I’m interested in Programming and learning languages
-- 🌱 I’m currently learning Java, C++ and taking CS50x
+- 🌱 I’m currently learning Java, C++ and taking CS50x, I can program simple websites with html, CSS and JavaScript, I know C, python and basics of SQL
 - 💞️ I’m looking to collaborate on some easy projects to gain knowledge
 
 <!---

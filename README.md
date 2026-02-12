@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Filip4231
 - 👀 I’m interested in Programming and learning languages
-- 🌱 Computer Science student in AGH technical university
+- 🌱 Computer Science student at AGH technical university
 - 💞️ I’m looking to collaborate on some projects to gain knowledge
 
 - Check out my small project https://mylittlechat-zj9w.onrender.com
